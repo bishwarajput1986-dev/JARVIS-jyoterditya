@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">J.A.R.V.I.S.</string>
+    <string name="subtitle_system">Just A Rather Very Intelligent System</string>
+    <string name="status_online">SYSTEMS ONLINE</string>
+    <string name="status_listening">LISTENING…</string>
+    <string name="status_processing">PROCESSING QUERY…</string>
+    <string name="status_speaking">SPEAKING…</string>
+    <string name="status_offline">OFFLINE PROTOCOL</string>
+    <string name="input_placeholder">Command or query, sir…</string>
+    <string name="mic_cd">Voice command input</string>
+    <string name="send_cd">Send command</string>
+    <string name="settings_cd">JARVIS configuration settings</string>
+    <string name="history_cd">Command logs and chat history</string>
+    <string name="clear_history_cd">Purge memory logs</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S.",
+  "description": "Advanced personal AI assistant for Android with Iron Man arc reactor interface, voice recognition, speech synthesis, and intelligent device controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
